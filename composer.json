@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-medialibrary",
+    "name": "vsrklabs/laravel-medialibrary-mongodb",
     "description": "Associate files with Eloquent models",
     "license": "MIT",
     "keywords": [
